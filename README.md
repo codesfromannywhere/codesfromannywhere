@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Laura-Ann 
 
 # 💫 About Me:
-🔭 I’m a Design Expert currently upskilling in a Full-Stack-Development Bootcamp! <br>👯 I’m looking to collaborate on projects with focus on Web Accessibilty or outdoor/sports industry. <br>🌱 I’m currently working on my final Full-Stack project: A social media platfotm!<br>💬 Ask me about Web(-Design), Accessibility & everything else! I'm happy to help! <br>📫 How to reach me: latheissing@gmail.com <br>⚡ Fun fact: I love garlic and looking at topographic maps. 
+🔭 I’m a Design Expert currently upskilling in a Full-Stack-Development Bootcamp! <br>👯 I’m looking to collaborate on projects with focus on Web Accessibilty or outdoor/sports industry. <br>🌱 I’m currently working on my final Full-Stack project: A social media platform!<br>💬 Ask me about Web(-Design), Accessibility & everything else! I'm happy to help! <br>📫 How to reach me: latheissing@gmail.com <br>⚡ Fun fact: I love garlic and looking at topographic maps. 
 
 
 ## 🌐 Socials:
